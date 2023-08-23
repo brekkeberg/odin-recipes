@@ -3,11 +3,9 @@ div {
     background-color: black;
 }
 
-p,h1{
+p,h3,ol,h1{
     color: black;
-    text-align: center;
     font-family: sans-serif;
-    font-weight: 900;
 }
 
 h1{
